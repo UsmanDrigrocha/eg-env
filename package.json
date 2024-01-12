@@ -1,0 +1,26 @@
+{
+  "name": "eg-env",
+  "version": "1.0.0",
+  "description": "Generate a simplified .env file by extracting only the keys from your existing .env configuration. This npm package is designed to enhance your development workflow by creating a new .env file with keys but without values. It helps you maintain a clean and minimalistic environment file, stripping away sensitive information and focusing solely on configuration keys.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsmanDrigrocha/eg-env.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "dotenv",
+    "eg-env",
+    ".env"
+  ],
+  "author": "Usman Drigrocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UsmanDrigrocha/eg-env/issues"
+  },
+  "homepage": "https://github.com/UsmanDrigrocha/eg-env#readme"
+}
